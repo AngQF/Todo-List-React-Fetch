@@ -39,3 +39,7 @@ It takes just 2 minutes to deploy, [click here to start the process](https://git
 - Hot Deploy: Use of [Webpack Development Server](https://webpack.js.org/configuration/dev-server/) for hot deploy and live reload.
 - One-command publish of the code to github pages with `npm run deploy:github`.
 - Babel 7 (really fast).
+
+
+EXPLICACIÓN:
+Es una lista de tareas sincronizada con una base de datos a través de una API; se pueden añadir todas las tareas que se quiera, siempre que no sean espacios en blanco, no haya nada escrito o esté repetida (en esos casos saltará una alerta). Al pasar el ratón por cada tarea aparece el botón para eliminarla.
